@@ -1,0 +1,123 @@
+{
+  "employee": [
+      {
+        "id": 1,
+        "employeename": " Prachi patel",
+        "salary": 30000,
+        "designation": "developer",
+        "activityduration": "10:00 - 18:26",
+        "activitypercent": [{ "name": "L1", "value": 56 },{ "name": "L2", "value": 30 }],
+      "idlepercent": [{ "name": "L1", "value": 40 }],
+        
+        "activetime": "",
+        "idletime": "",
+        "totaltime": "",
+        "stoptime": "01:00",
+        "activitypercentvalue":"56",
+      "idlepercentvalueone": "40",
+      "remainingtime":"",
+      "presnt":"28days",
+      "leave":"2days",
+      "email":"p@gmail.com"
+      
+      },
+  
+      {
+        "id": 2,
+        "employeename": "Anamika mishra",
+        "salary": 30000,
+        "designation": "Frontend developer",
+        "activityduration": "09:00 - 18:26",
+        "activitypercent": [{ "name": "L1", "value": 26 },{ "name": "L2", "value": 30 }],
+        "idlepercent": [{ "name": "L1", "value": 20 }],
+        "activetime": "",
+        "idletime": "",
+        "totaltime": "",
+        "stoptime": "01:00",
+        "activitypercentvalue": "80",
+      "idlepercentvalueone": "20",
+      "remainingtime":"",
+      "presnt":"29days",
+      "leave":"1days",
+      "email":"an@gmail.com"
+
+      },
+      {
+        "id": 3,
+        "employeename": "Astha panwar",
+        "salary": 15000,
+        "designation": "Backend developer",
+        "activityduration": "09:00 - 18:26",
+        "activitypercent": [{ "name": "L1", "value": 70 }],
+        "idlepercent": [{ "name": "L1", "value": 35 }],
+        "activetime": "",
+        "idletime": "",
+        "totaltime": "",
+        "stoptime": "09:00",
+        "activitypercentvalue": "70",
+      "idlepercentvalueone": "35",
+      "remainingtime":"",
+      "presnt":"30days",
+      "leave":"no leave",
+      "email":"a@gmail.com"
+      },
+      {
+        "id": 4,
+        "employeename": "Ved Prakash",
+        "salary": 50000,
+        "designation": "developer",
+        "activityduration": "09:00 - 18:26",
+        "activitypercent": [{ "name": "L1", "value": 70 }],
+        "idlepercent": [{ "name": "L1", "value": 35 }],
+        "activetime": "",
+        "idletime": "",
+        "totaltime": "",
+        "stoptime": "10:00",
+        "activitypercentvalue": "80",
+      "idlepercentvalueone": "35",
+      "remainingtime":"",
+      "presnt":"26days",
+      "leave":"4days",
+      "email":"v@gmail.com"
+      },
+      {
+        "id": 5,
+        "employeename": "ankit",
+        "salary": 15000,
+        "designation": "AEM Developer",
+        "activityduration": "09:00 - 18:26",
+        "activitypercent": [{ "name": "L1", "value": 70 }],
+        "idlepercent": [{ "name": "L1", "value": 35 }],
+        "activetime": "",
+        "idletime": "",
+        "totaltime": "",
+        "stoptime": "10:00",
+        "activitypercentvalue": "80",
+      "idlepercentvalueone": "25",
+      "remainingtime":"",
+      "presnt":"30days",
+      "leave":"no leave",
+      "email":"n@gmail.com"
+      },
+      {
+        "employeename": "shivani",
+        "salary": 1000,
+        "designation": "Data Scientist",
+        "activityduration": "09:00 - 18:26",
+        "activitypercent": [{ "name": "L1", "value": 70 }],
+        "idlepercent": [{ "name": "L1", "value": 35 }],
+        "activetime": "",
+        "idletime": "",
+        "totaltime": "",
+        "stoptime": "10:00",
+        "activitypercentvalue": "80",
+      "idlepercentvalueone": "25",
+      "remainingtime":"",
+      "presnt":"29days",
+      "leave":"1day",
+      "email":"ab@gmail.com"
+      }
+
+
+  ]
+}

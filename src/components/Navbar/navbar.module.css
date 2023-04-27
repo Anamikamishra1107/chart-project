@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ }
+ .MenuStyle {
+    width: 100%;
+    height: 60px;
+    background: #a9b1a5;
+    color: rgb(27, 22, 22);
+ }
+ .MenuStyle ul {
+    height: 65px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ .MenuStyle ul li {
+    list-style: none;
+    text-transform: uppercase;
+    /* color: rgb(7, 5, 5); */
+ }
+ .MenuStyle ul li a {
+    color: rgb(17, 15, 15);
+    text-decoration: none;
+ }
+ 
